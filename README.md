@@ -36,5 +36,10 @@ Evaluating prediction accuracy.
 ### Data Visualization  of pickup and dropoff geo-coordinates with sns distplot after removal of remote geo-coordinates and framing the dataset to the NYC boundaries.
 ![](visuals/geocoordinates_2.png) 
 ### Data Visualization of pickup and dropoff of cab clients by vendors type.
-![](bokeh_plot.png) 
-
+![](visuals/bokeh_plot.png) 
+### Map of trips with Plotly.
+![](visuals/nyc_map.png)
+### Map of trips by Plotly divided in 59 clusters, equal to the number of Neighborhood Boards in the New York City.
+![](visuals/nyc_map_cluters.png)
+### Bar chart of trip frequency by amount of passengers.
+![](visuals/trip_frequency.png)
