@@ -31,5 +31,10 @@ Evaluating prediction accuracy.
 ## Data visualization and analysis
 ### Pearson chart to identify outlayers in time-related and geography-related data for data cleaning
 ![](visuals/01_pierson_beforeremoveoutliers.png)
-### Visualization analysis of pickup and dropoff geo-coordinates with sns distplot that proves existing outlayers in both directions. 
+### Data Visualization of pickup and dropoff geo-coordinates with sns distplot that proves existing outlayers in both directions. 
 ![](visuals/geocoordinates_1.png) 
+### Data Visualization  of pickup and dropoff geo-coordinates with sns distplot after removal of remote geo-coordinates and framing the dataset to the NYC boundaries.
+![](visuals/geocoordinates_2.png) 
+### Data Visualization of pickup and dropoff of cab clients by vendors type.
+![](bokeh_plot.png) 
+
